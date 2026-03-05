@@ -1,4 +1,4 @@
-# Gushwork Frontend Assignment
+# Gushwork Assignment
 
 This project is a **responsive web page implementation** based on the provided Figma design. The page is developed using **vanilla HTML, CSS, and JavaScript only**, without using any frameworks or external libraries, as required in the assignment instructions.
 
