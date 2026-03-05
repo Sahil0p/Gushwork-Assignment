@@ -1,0 +1,30 @@
+gushwork-assignment
+
+index.html
+styles.css
+script.js
+
+assets
+   images
+      hero
+         pipe-main.jpg
+         pipe-1.jpg
+         pipe-2.jpg
+         pipe-3.jpg
+         pipe-4.jpg
+
+      industries
+         industry-1.jpg
+         industry-2.jpg
+         industry-3.jpg
+
+      portfolio
+         fittings.jpg
+         installation.jpg
+         heating-pipes.jpg
+
+      logos
+         euroflex-1.png
+         euroflex-2.png
+         euroflex-3.png
+         euroflex-4.png
