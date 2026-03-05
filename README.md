@@ -10,7 +10,7 @@ The goal of this project is to accurately translate the design into a fully func
 
 The implementation follows the design specifications from the Figma file:
 
-https://www.figma.com/design/DOv07H7C2tA5UrVLhmfwfW/Gushwork-Assignment?node-id=490-8785
+👉 [Figma Design](https://www.figma.com/design/DOv07H7C2tA5UrVLhmfwfW/Gushwork-Assignment?node-id=490-8785)
 
 All layout components, typography, spacing, colors, and visual elements have been implemented to match the design as closely as possible.
 
